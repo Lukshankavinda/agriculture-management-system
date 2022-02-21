@@ -1,0 +1,14 @@
+1.In low specs machines map loading can be slow. also in low speed internet connections.
+
+2.In map the popup layout of flags should be updated after one click. so if you click on flag then the layout will be popuped.Then if 
+you want to view another you should click on a place of not flag and then click on the flag.
+
+3.Very large images can't be used in the system.so when you upload choose normal size images.
+
+4.First you should create a database in mysql called "agriculture" and then import the database file.
+
+5.Put the WEB folder in to htdocs. Then in your browser open this link => http://localhost/WEB/
+
+6.The map will be showing only if even an one harvest exists.
+
+7.web master username:maser    password:master
